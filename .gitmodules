@@ -1,0 +1,3 @@
+[submodule "ru.mirea.Pivovarov.iES/iES"]
+	path = ru.mirea.Pivovarov.iES/iES
+	url = git@github.com:AkvaLin/iES.git
